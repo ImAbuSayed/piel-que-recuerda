@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-que-recuerda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Piel que recuerda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-recuerda/) |
+| **Get License** | [Get License For Piel que recuerda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-recuerda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese perfume caro que dejaste en mi piel
+> Me tiene dando vueltas, recordando el nivel
+> Tú y yo en la disco, mami, sin mirar atrás
+> Mami, tú eres la jefa, dime dónde estás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
