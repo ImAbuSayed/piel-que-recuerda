@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel que recuerda
+
+This log tracks the cryptographic history and versioning for the song **Piel que recuerda** (piel-que-recuerda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:59:34.561089 | `v1` | `205bcc8688e6b8850b0767e1bc410db4de4b9a2523aa3a8f87146d9c91853e9c` | `b2b08553924100f3cbf065978ddab40ce292929a6feb99d57d4efd07155f66b4` | `2026-06-18_piel-que-recuerda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

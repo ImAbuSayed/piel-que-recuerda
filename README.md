@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-que-recuerda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel que recuerda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-recuerda/) |
+| **Get License** | [Commercial Licensing for Piel que recuerda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-recuerda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `205bcc8688e6b8850b0767e1bc410db4de4b9a2523aa3a8f87146d9c91853e9c` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
